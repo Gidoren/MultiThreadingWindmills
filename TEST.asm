@@ -1,7 +1,4 @@
 ;**********************************************************************************
-; Cameron Saifizadeh
-; CS M30
-; Program5
 ;creates 3 threads to present to running windmills with speeds that can be toggled
 ; two threads are dedicated to outputting the windmills spinning at varrying speeds
 ; the main thread changes the speeds and asks for userinput
